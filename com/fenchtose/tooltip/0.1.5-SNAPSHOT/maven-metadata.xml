@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.fenchtose</groupId>
+  <artifactId>tooltip</artifactId>
+  <version>0.1.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161012.144506</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161012144506</lastUpdated>
+  </versioning>
+</metadata>
